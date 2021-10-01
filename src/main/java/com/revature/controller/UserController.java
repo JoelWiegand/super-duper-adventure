@@ -25,6 +25,7 @@ public class UserController {
 	
 	@Autowired
 	private UserService userService;
+	//can sonar see this
 	
 	// find all
 	@GetMapping
